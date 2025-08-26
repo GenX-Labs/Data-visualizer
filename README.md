@@ -31,4 +31,4 @@ It’s a good starting point for learning:
    ```
 
 ## screenshot
-![program Screenshot](image/program_screenshot.png)
+![program Screenshot](program_screenshot.png)
